@@ -1,0 +1,4 @@
+- 👋 oi,meu nome é dyovanna
+- 👀 estou interessada em aprender novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e scraht
+- 📫 meu email de contato é dyovanna.colle@escola.pr.gov.br
